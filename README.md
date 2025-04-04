@@ -2,6 +2,12 @@
 
 A high-power battle robot built using an **Arduino Mega**, **BTS7960 motor drivers**, and **Flysky FS-i6X transmitter/receiver**. Designed for both mobility and attack with a dedicated brushless weapon motor.
 
+
+![battle1](https://github.com/user-attachments/assets/9818ec9d-281b-4791-9f54-84bcaf80b43e)
+
+![battle2](https://github.com/user-attachments/assets/f5f00844-fc86-48e4-9f56-ac6ba5e703ef)
+
+
 ---
 
 ## Components Used
